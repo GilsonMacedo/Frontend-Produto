@@ -1,7 +1,7 @@
 [
     {
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png",
-      "nome": "Smartphone XYZ",
+      "nome": "Smartphone iPhone",
       "descricao": "Celular de última geração",
       "valorSemDesconto": 10.00,
       "valorComDesconto": 999.99,
@@ -9,7 +9,7 @@
     },
     {
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png",
-      "nome": "Notebook ABC",
+      "nome": "Notebook Lenovo",
       "descricao": "Notebook ultrafino e potente",
       "valorSemDesconto": 10.00,
       "valorComDesconto": 1999.99,
@@ -17,7 +17,7 @@
     },
     {
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png",
-      "nome": "PlayStation 5",
+      "nome": "PlayStation 5.5",
       "descricao": "Console de última geração",
       "valorSemDesconto": 10.00,
       "valorComDesconto": 2099.99,
@@ -25,7 +25,7 @@
     },
     {
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png",
-      "nome": "Kit de Maquiagem Glamour",
+      "nome": "Kit de Maquiagem Glamour Styles",
       "descricao": "Produtos de beleza de alta qualidade",
       "valorSemDesconto": 10.00,
       "valorComDesconto": 129.99,
@@ -57,7 +57,7 @@
     },
     {
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png",
-      "nome": "Perfume Elegance",
+      "nome": "Perfume Elegance Charmoso",
       "descricao": "Fragrância sofisticada e duradoura",
       "valorSemDesconto": 10.00,
       "valorComDesconto": 99.99,
@@ -65,7 +65,7 @@
     },
     {
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png",
-      "nome": "Vale presente",
+      "nome": "Vale presente para Família",
       "descricao": "Compre e faça alguém feliz",
       "valorSemDesconto": 10.00,
       "valorComDesconto": 65.99,
