@@ -1,5 +1,4 @@
-{
-  "produtos": [
+[
     {
       "categoria": "Cama",
       "nome": "Jogo de Lençóis de Algodão",
@@ -25,4 +24,3 @@
       "disponibilidade": false
     }
   ]
-}
