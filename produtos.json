@@ -70,5 +70,13 @@
       "valorSemDesconto": 10.00,
       "valorComDesconto": 65.99,
       "tipoEntrega": "RECEBA HOJE"
+    },
+    {
+      "img": "https://www.belezanaweb.com.br/blz-principal",
+      "nome": "Vale presente para Família",
+      "descricao": "Compre e faça alguém feliz",
+      "valorSemDesconto": 10.00,
+      "valorComDesconto": 65.99,
+      "tipoEntrega": "RECEBA HOJE"
     }
 ]
