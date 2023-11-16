@@ -1,0 +1,28 @@
+{
+  "produtos": [
+    {
+      "categoria": "Cama",
+      "nome": "Jogo de Lençóis de Algodão",
+      "preco": 49.99,
+      "cor": "Branco",
+      "tamanho": "Queen",
+      "disponibilidade": true
+    },
+    {
+      "categoria": "Mesa",
+      "nome": "Conjunto de Pratos Elegantes",
+      "preco": 29.99,
+      "cor": "Azul",
+      "material": "Porcelana",
+      "disponibilidade": true
+    },
+    {
+      "categoria": "Banho",
+      "nome": "Toalhas de Banho de Alta Absorção",
+      "preco": 19.99,
+      "cor": "Cinza",
+      "quantidade": 4,
+      "disponibilidade": false
+    }
+  ]
+}
