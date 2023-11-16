@@ -1,0 +1,50 @@
+[
+    {
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png",
+      "nome": "Smartphone iPhone",
+      "descricao": "Celular de última geração",
+      "valorSemDesconto": 1000.00,
+      "valorComDesconto": 999.99,
+      "tipoEntrega": "Frete GRÁTIS"
+    },
+    {
+      "img": "URL_IMAGEM_PROduto_2",
+      "nome": "Notebook UltraSlim",
+      "descricao": "Notebook leve e portátil",
+      "valorSemDesconto": 999.00,
+      "valorComDesconto": 1299.99,
+      "tipoEntrega": "Entrega Expressa"
+    },
+    {
+      "img": "URL_IMAGEM_PROduto_3",
+      "nome": "Fone de Ouvido Bluetooth",
+      "descricao": "Áudio de alta qualidade sem fios",
+      "valorSemDesconto": 59.00,
+      "valorComDesconto": 79.99,
+      "tipoEntrega": "Frete GRÁTIS"
+    },
+    {
+      "img": "URL_IMAGEM_PROduto_4",
+      "nome": "Smart TV 4K",
+      "descricao": "Imagens nítidas e cores vibrantes",
+      "valorSemDesconto": 1299.00,
+      "valorComDesconto": 1999.99,
+      "tipoEntrega": "Entrega Agendada"
+    },
+    {
+      "img": "URL_IMAGEM_PROduto_5",
+      "nome": "Máquina de Café Automática",
+      "descricao": "Café fresco com o toque de um botão",
+      "valorSemDesconto": 12900,
+      "valorComDesconto": 149.99,
+      "tipoEntrega": "Frete GRÁTIS"
+    },
+    {
+      "img": "URL_IMAGEM_PROduto_6",
+      "nome": "Sapatos Esportivos",
+      "descricao": "Confortáveis e estilosos",
+      "valorSemDesconto": 49.00,
+      "valorComDesconto": 89.99,
+      "tipoEntrega": "Entrega Expressa"
+    }
+  ]
